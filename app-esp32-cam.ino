@@ -2,8 +2,8 @@
 #include <WebServer.h>
 #include <ESPmDNS.h>
 
-const char* ssid = "InfinixHOT11Play";
-const char* password = "mbokostagab";
+const char* ssid = " your wifi name like techno spack 7";
+const char* password = "your password wifi like 12345678";
 
 WebServer server(80);
 
